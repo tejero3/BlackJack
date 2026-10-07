@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class BarajaTest {
 
+	
 	@Test
 	void barajaNuevaTiene52Cartas() {
 		//comprueba el requisito de que una baraja nueva contiene las 52 cartas.
